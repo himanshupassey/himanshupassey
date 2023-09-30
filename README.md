@@ -1,9 +1,12 @@
 <h1 align="center">Hi 👋, I'm Himanshu Passey</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
+[![himanshupassey card name](https://cardivo.vercel.app/api?name=Himanshu%20Passey&description=Hi,%20i%27m%2020%20year%20old.%20i%20do%20things%20related%20to%20front%20end%20web%20development%20Nice%20to%20meet%20you%20%F0%9F%91%8B&image=https://avatars.githubusercontent.com/u/146419971?v=4&backgroundColor=%23ecf0f1&linkedin=himanshupassey&github=himanshupassey&pattern=leaf&colorPattern=%23eaeaea)](#)
+
+
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
-- 📫 How to reach me **himanshupassey26@gmail.com** <br/>
+- 📫 How to reach me **himanshupassey26@gmail.com** 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
