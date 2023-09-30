@@ -3,14 +3,27 @@
 
 [![himanshupassey card name](https://cardivo.vercel.app/api?name=Himanshu%20Passey&description=Hi,%20i%27m%2020%20year%20old.%20i%20do%20things%20related%20to%20front%20end%20web%20development%20Nice%20to%20meet%20you%20%F0%9F%91%8B&image=https://avatars.githubusercontent.com/u/146419971?v=4&backgroundColor=%23ecf0f1&linkedin=himanshupassey&github=himanshupassey&pattern=leaf&colorPattern=%23eaeaea)](#)
 
+<p align="center">
+<a href="#">
+  <img src="http://readme-typing-svg.herokuapp.com?color=1C71FA&center=true&vCenter=true&multiline=false&lines=I'am+still+learning+programming!;It's+not+a+bug,+it's+an+undocumented+feature;Make+it+work,+Make+it+right,+Make+it+fast." alt="Text Gagal ditampilkan!"></a>
+</p><hr />
 
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
+- <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Rocket.gif" width="18px"> You can call me **PRINCE**
+
+- <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px"> I **Love Learning** new things
+
+- ⚡ I like **Game, Music, and drawing**
+
+- 🌱 I’m currently learning **Python, html, css, Javascript**
+  
 - 📫 How to reach me **himanshupassey26@gmail.com** 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/himanshupassey" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="himanshupassey" height="30" width="40" /></a>
+<a href="https://instagram.com/thehimanshupassey" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ariafatahanom" height="30" width="40" /></a>  
 </p>
 <br/>
 <h3 align="left">Languages and Tools:</h3>
