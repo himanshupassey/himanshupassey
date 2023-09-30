@@ -16,4 +16,5 @@
 
 ## WATCH SNAKE EATING MY GITHUB CONTRIBUTIONS
 
-![snake gif](https://github.com/himanshupassey/himanshupassey/blob/output/github-contribution-grid-snake.svg)
+<p><img align="center" alt="snake eating my contributions" src="https://raw.githubusercontent.com/ariafatah0711/ariafatah0711/output/github-contribution-grid-snake-dark.svg" width="1000" />
+  
