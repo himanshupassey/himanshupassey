@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Himanshu Passey</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-[![himanshupassey card name](https://cardivo.vercel.app/api?name=Himanshu%20Passey&description=Hi,%20i%27m%2020%20year%20old.%20i%20do%20things%20related%20to%20front%20end%20web%20development%20Nice%20to%20meet%20you%20%F0%9F%91%8B&image=https://avatars.githubusercontent.com/u/146419971?v=4&backgroundColor=%23ecf0f1&linkedin=himanshupassey&github=himanshupassey&pattern=leaf&colorPattern=%23eaeaea)](#)
+[![himanshupassey card name](https://cardivo.vercel.app/api?name=Himanshu%20Passey&description=Hi,%20i%27m%2020%20year%20old.%20i%20do%20things%20related%20to%20front%20end%20web%20development%20Nice%20to%20meet%20you%20%F0%9F%91%8B&image=https://avatars.githubusercontent.com/u/146419971?v=4&backgroundColor=%23eaf0f9&linkedin=himanshupassey&github=himanshupassey&pattern=fourPointStars&colorPattern=%23eaeaea)](#)
 
 <p align="center">
 <a href="#">
