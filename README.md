@@ -8,6 +8,12 @@
   <img src="http://readme-typing-svg.herokuapp.com?color=1C71FA&center=true&vCenter=true&multiline=false&lines=I'am+still+learning+programming!;It's+not+a+bug,+it's+an+undocumented+feature;Make+it+work,+Make+it+right,+Make+it+fast." alt="Text Gagal ditampilkan!"></a>
 </p><hr />
 
+<p align="center"> <a href="#">
+<img src="https://komarev.com/ghpvc/?username=ariafatah&label=Profile%20views&color=0e75b6&style=flat" alt="view-count" /> </a>
+
+<p align="center"> <a href="#">
+  <img src="https://profile-counter.glitch.me/{ariafatah}/count.svg" alt="dhyZx :: Visitor's Count" /></a></p>
+
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
 - <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Rocket.gif" width="18px"> You can call me **PRINCE**
